@@ -1,0 +1,30 @@
+*/////////////////////////////////////////////////////////////////////////
+cd    = sube un nivel
+cd.   = baja un nivel
+cd..  = bajar 2 niveles
+
+npm start   = para iniciar el proyecto
+
+npm i (o npm install)  = para instalar una dependencia al proyecto
+
+///////////////////////////////////////////////////////////////////*
+
+
+<h1 class="bg-success rounded-2 color-white" >Agenda de Tareas</h1>
+
+PENDIENTE:
+
+BASE DE DATOS TASK_MANAGER:
+1 ID AUTOINCREMENT
+2 ID_USUARIO_ADMIN
+3 TASK_DESCRIPTION
+4 TASK_COMPLETE TRUE! 
+
+BASE DE DATOS USUARIOS:
+1 ID AUTOINCREMENT
+2 USERNAME
+3 PASSWORD
+4 USER_MAIL
+
+AGREGAR BOTON DE REGISTRO EN PANTALLA DE INICIO
+--- AGREGAR FORMULARIO CON LOS PARAMETROS ANTERIORES
